@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a web fonr-end job...
+- 🔭 I’m currently looking for a web front-end job...
 - 🌱 I’m currently devoted to projects on GitHub, and more projects will appear in the future.
 - 👯 I’m looking to collaborate on [ExquisiteUI](https://github.com/321paranoiawhy/ExquisiteUI) --- A pure and exqiusite web component library.
 - 💬 Wechat: why511686
