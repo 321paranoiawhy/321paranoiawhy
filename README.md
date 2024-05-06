@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a web front-end job...
-- 🌱 I’m currently devoted to projects on GitHub, and more projects will appear in the future.
-- 👯 I’m looking to collaborate on [ExquisiteUI](https://github.com/321paranoiawhy/ExquisiteUI) --- A pure and exqiusite web component library.
 - 💬 Wechat: why511686
 - 📫 Email: paranoiawhy@gmail.com
-
-![](https://img.shields.io/github/stars/321paranoiawhy?style=social)
-![](https://img.shields.io/npm/dw/log-so-easy)
-![](https://komarev.com/ghpvc/?username=321paranoiawhy&color=blueviolet)
 
 [![321paranoiawhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=321paranoiawhy&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=321paranoiawhy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
